@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Abhishek Sawan</h1> -->
-<h1 align="center">Hi , I'm Abhishek Sawan</h1>
+<h1 align="center">Hi , I'm Arijit Das</h1>
 <h3 align="center">A passionate MERN Stack Developer  and currently, I'm focusing on improving my knowledge of Data Structure and algorithms. </h3> 
 
 
@@ -35,16 +35,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/sawanabhi157/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek Sawan streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sawanabhi157&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/arijitdas13105/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arijit das streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sawanabhi157&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/sawanabhi157/github-readme-stats"><img alt="Abhishek Sawan Github Stats" src="https://github-readme-stats.vercel.app/api?username=sawanabhi157&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/sawanabhi157/github-readme-stats"><img alt="Abhishek Sawan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawanabhi157&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/arijitdas13105/github-readme-stats"><img alt="Arijit Das Github Stats" src="https://github-readme-stats.vercel.app/api?username=arijitdas13105&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/arijitdas13105/github-readme-stats"><img alt="Arijit Das Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijitdas13105&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -60,9 +60,9 @@
 ## 🙋‍♂️ Connect with me:
 <p align="center">
 
-<a href = "https://in.linkedin.com/in/sawanabhi157/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.quora.com/profile/Abhishek-Sawan-5"><img src="https://img.icons8.com/doodle/48/4a90e2/quora--v1.png"/> </a>
-<a href = "https://www.instagram.com/sawanabhi157/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/arijit-das-861753191/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<!-- <a href = "https://www.quora.com/profile/Abhishek-Sawan-5"><img src="https://img.icons8.com/doodle/48/4a90e2/quora--v1.png"/> </a>
+<a href = "https://www.instagram.com/sawanabhi157/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 
 </p>
 
@@ -70,4 +70,4 @@
 <a href="https://github.com/sawanabhi157/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sawanabhi157">
 </a>
-<a href="https://github.com/sawanabhi157?tab=followers"><img src="https://img.shields.io/github/followers/sawanabhi157?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/arijitdas13105?tab=followers"><img src="https://img.shields.io/github/followers/arijitdas13105?label=Followers&style=social" alt="GitHub Badge"></a>
