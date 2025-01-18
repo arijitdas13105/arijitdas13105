@@ -17,9 +17,8 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>  
-        <a href="https://postman.com" target="_blank"> <img src="    https://camo.githubusercontent.com/1a6155a25135b67d13790cff2bd3ba55d27d66b83864eacb62f59abea8b646c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656475782d2532333539336438382e7376673f7374796c653d666c61742d737175617265266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465" alt="postman" width="45" height="45"/> </a>  
-
-
+        
+   <a href="https://postman.com" target="_blank"> <img src="https://cdn.zapier.com/storage/blog/4ec8fc7dc3a75758a3913bab9e5a4fd8_2.500x278.png" alt="postman" width="45" height="45"/> </a>
 
 
 
