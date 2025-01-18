@@ -4,15 +4,7 @@
 
 🌟 **Full Stack Developer | Open Source Enthusiast**  
 
-👨‍💻 Gained experience as an intern at CoRider, The Investor Diwan, and Sehr Technologies.  
-
-🎓 Final-year student at **IIIT Gwalior** (B.Tech + M.Tech in IT).  
-
-💡 Skilled in **React Native, React.js, Node.js, and TypeScript** with a strong foundation in full-stack development.  
-
-🌱 Currently exploring **distributed systems, backend architecture, and DevOps**, while actively contributing to open-source projects.  
-
-📫 Let’s connect and collaborate! </h3> 
+Full Stack Developer and Open Source Enthusiast with internship experience at CoRider, The Investor Diwan, and Sehr Technologies; currently in my final year at IIIT Gwalior (B.Tech + M.Tech in IT), skilled in React Native, React.js, Node.js, and TypeScript, exploring distributed systems, backend architecture, and DevOps, while contributing to open-source projects. Let’s connect and collaborate! </h3> 
 
 
 
