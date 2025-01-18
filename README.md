@@ -1,8 +1,6 @@
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Arijit Das</h1> -->
 <h1 align="center">Hi , I'm Arijit Das</h1>
-<h3 align="center"🌟 **Full Stack Developer | Open Source Enthusiast**  
-
-Full Stack Developer with internship experience at CoRider, The Investor Diwan, and Sehr Technologies; currently in my final year at IIIT Gwalior, skilled in React Native, React.js, Node.js, and JavaScript, Golang exploring distributed systems, backend architecture, and DevOps</h3> 
+<h3 align="center">Full Stack Developer with internship experience at CoRider, The Investor Diwan, and Sehr Technologies; currently in my final year at IIIT Gwalior, skilled in React Native, React.js, Node.js, and JavaScript, Golang exploring distributed systems, backend architecture, and DevOps</h3> 
 
 
 
