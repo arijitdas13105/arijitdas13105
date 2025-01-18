@@ -1,9 +1,7 @@
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Arijit Das</h1> -->
 <h1 align="center">Hi , I'm Arijit Das</h1>
 <h3 align="center">🌟Full Stack Developer with mobile app development experience at 👨‍💻CoRider, The Investor Diwan, and Sehr Technologies;🎓 currently in my final year at IIIT Gwalior, 💡skilled in React Native, React.js, Node.js, and JavaScript, Golang 🌱exploring on advanced frontend technologies, distributed systems, backend architecture</h3> 
-/*
-Full Stack Developer with mobile app development experience at CoRider, The Investor Diwan, and Sehr Technologies; currently in my final year at IIIT Gwalior, skilled in React Native, React.js, Node.js, JavaScript, and Golang, with a focus on frontend technologies, distributed systems, backend architecture, and DevOps.
-*/
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
