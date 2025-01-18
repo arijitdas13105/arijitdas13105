@@ -1,8 +1,6 @@
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Arijit Das</h1> -->
 <h1 align="center">Hi , I'm Arijit Das</h1>
-<h3 align="center">Got it! Here's a concise version for your GitHub profile overview:  
-
-🌟 **Full Stack Developer | Open Source Enthusiast**  
+<h3 align="center"🌟 **Full Stack Developer | Open Source Enthusiast**  
 
 Full Stack Developer and Open Source Enthusiast with internship experience at CoRider, The Investor Diwan, and Sehr Technologies; currently in my final year at IIIT Gwalior (B.Tech + M.Tech in IT), skilled in React Native, React.js, Node.js, and TypeScript, exploring distributed systems, backend architecture, and DevOps, while contributing to open-source projects. Let’s connect and collaborate! </h3> 
 
