@@ -1,6 +1,6 @@
 <!-- 🌟 Optional Banner Image (Replace with Your Image URL) -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%" />
+  <img src="[YOUR_BANNER_IMAGE_URL](https://media.licdn.com/dms/image/v2/D4D16AQEAbvIJ4-wQqw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729613379830?e=1744243200&v=beta&t=UixiuAhQ7qJcBmOdRxsijkkJBDpXWpPix-Zctt-Zzts)" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Arijit Das 👋</h1>
