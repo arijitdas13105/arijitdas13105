@@ -55,7 +55,7 @@
 ---
 
 ## 📊 GitHub Stats:
-
+<!--
 <p align="center">
   <a href="https://github.com/arijitdas13105">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arijitdas13105&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
@@ -69,9 +69,20 @@
 </p>
 
 📌 **Note:** Top languages are dynamically calculated from public repositories and may not reflect experience level.
+-->
+
+<p align="center">
+  <a href="https://github.com/arijitdas13105">
+    <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api?username=arijitdas13105&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/arijitdas13105">
+    <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijitdas13105&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+ <sub>*📌*Note:* Top languages are from public repos and may not reflect actual experience.*</sub>
 
 ---
-
 ## 🔥 GitHub Streak:
 
 <p align="center">
@@ -90,14 +101,6 @@
   </a>
 </p>
 
----
-
-## 🎯 Fun Facts:
-
-✅ 5+ Years of coding experience  
-✅ Passionate about **Backend Development & Distributed Systems**  
-✅ Love working with **React Native, Go, and Node.js**  
-✅ Always learning **new technologies**  
 
 ---
 
