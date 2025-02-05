@@ -108,7 +108,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
 
-  <a href="mailto:arijitdas13105@gmail.com">
+  <a href="mailto:arijitme11@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
   </a>
 </p>
